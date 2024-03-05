@@ -5,6 +5,6 @@ This is what the title says it is. I made it specifically for for the Default Da
 The code, writings, and textures found within this repository are covered by the Attribution-NonCommercial-ShareAlike 4.0 International license, found under the following URL: https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ### Credits
-nebulr (curseforge.com/members/nebulr) for the Default Dark Mode texture pack.
-maxanier (curseforge.com/members/maxanier) for the Vampirism mod.
-Cheaterpaul (curseforge.com/members/cheaterpaul) for the Vampirism mod.
+nebulr (curseforge.com/members/nebulr) for the Default Dark Mode texture pack.\n
+maxanier (curseforge.com/members/maxanier) for the Vampirism mod.\n
+Cheaterpaul (curseforge.com/members/cheaterpaul) for the Vampirism mod.\n
