@@ -30,13 +30,19 @@ This texture pack adds an option to use "dark mode" to the Minecraft Vampirism m
 * "potion_table_extended.png" texture (modified)
 * "weapon_table.png" texture (modified)
 * "weapon_table_clean.png" texture (modified)
-
+* "appearance.png" texture (modified)
+* "blessing_recipe_jei.png" texture (modified)
+* "fog_diffuser.png" texture (modified)
+* "grinder.png.png" texture (modified)
+* "inventory_skills.png" texture (modified)
 
 ##### Default Dark Mode (github.com/nebuIr/Default-Dark-Mode, curseforge.com/minecraft/texture-packs/default-dark-mode)
 * "empty_armor_slot_boots.png" (used as a reference and used for colour codes: #222222)
 * "legacy_smithing.png" (used as a reference and for colour codes: #161616, #4F4F4F, #666666, #383838)
 * "blast_furnace.png" (used as a reference and for colour codes: #2A2A2A, #FFFFFF)
 * "brewing_stand.png" (used as a reference and for colour codes: #383838, #FFFFFF)
+* "beacon.png" (used as a reference)
+* "recipe_button.png" (used as a reference and for colour codes: #C0C0C0, #7E7E7E, #3F3F3F, #000000, #7B7B7B, #606060, #292929)
 
 ### License
 The code, writings, and textures found within this repository are covered by the Attribution-NonCommercial-ShareAlike 4.0 International license, found under the following URL: https://creativecommons.org/licenses/by-nc-sa/4.0/, and enclosed within the project.
