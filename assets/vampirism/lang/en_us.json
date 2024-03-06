@@ -1,4 +1,6 @@
 {
+  "gui.vampirism.garlic_diffuser.startup": "§7Startup Progress",
+  
   "text.vampirism.basic_hunter.pay_n_vampire_blood_more": "§7Please pay me §r§7%s§r§7 more vampire blood bottles to train you",
   "text.vampirism.basic_hunter.i_will_train_you": "§7Alright, I will train you"
 }
