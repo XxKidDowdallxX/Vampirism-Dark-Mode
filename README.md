@@ -18,7 +18,13 @@ This texture pack adds an option to use "dark mode" to the Minecraft Vampirism m
 * "legacy_smithing.png" (used as a reference and for colour codes: #161616, #4F4F4F, #666666, #383838)
 
 ### License
-The code, writings, and textures found within this repository are covered by the Attribution-NonCommercial-ShareAlike 4.0 International license, found under the following URL: https://creativecommons.org/licenses/by-nc-sa/4.0/.
+The code, writings, and textures found within this repository are covered by the Attribution-NonCommercial-ShareAlike 4.0 International license, found under the following URL: https://creativecommons.org/licenses/by-nc-sa/4.0/, and enclosed within the project.
+
+Textures within this project which have been borrowed from the attached libraries are being used with respect to their licensing and copyright terms.<br><br>
+Textures used from the Vampirism mod are used under the following terms: `Any textures (and models) included in the mod may be used, remixed and distributed for anything related to Vampirism (fan art, addon mods, forks, reviews, ...) excluding resource packs.
+If you want to use them in a resource/texture pack, you must credit the Vampirism project or the individual creator where applicable and it must not be used commercially.`<br><br>
+
+Textures used from the Default Dark Mode pack have been used with respect to the Attribution-NonCommercial-ShareAlike 4.0 International license, which has also been enclosed within the project.
 
 ### Credits
 * nebuIr (curseforge.com/members/nebulr) for the Default Dark Mode texture pack.<br>
