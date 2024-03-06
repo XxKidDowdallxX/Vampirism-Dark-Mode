@@ -12,6 +12,7 @@ This texture pack adds an option to use "dark mode" to the Minecraft Vampirism m
 * "vampirism_menu_refinements.png" texture (modified)
 * "widgets.png" texture (modified)
 * "window.png" texture (modified)
+* "taskmaster.png" texture (modified)
 
 #### Default Dark Mode (github.com/nebuIr/Default-Dark-Mode, curseforge.com/minecraft/texture-packs/default-dark-mode)
 * "empty_armor_slot_boots.png" (used as a reference and used for colour codes: #222222)
